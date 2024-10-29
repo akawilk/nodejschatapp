@@ -8,7 +8,6 @@ stage('Cloning Git')
     checkout scm
 }
 
-}
 
 stage('Build-And-Tag-')
 {
